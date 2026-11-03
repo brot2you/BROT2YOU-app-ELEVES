@@ -1,0 +1,12 @@
+CORRECTIF BROT2YOU GAME COLLECTION
+
+Le site en ligne contient 22 applications.
+Ce correctif ajoute Brick It Up! et Class Reward Jar, sans remplacer les autres fichiers du site.
+
+Dans le dépôt brot2you/BROT2YOU-app-ELEVES :
+1. Remplacer le fichier racine apps.json par celui de cette archive.
+2. Ajouter les deux fichiers .webp dans assets/covers/ (sans supprimer les autres).
+3. Cliquer Commit changes pour chaque téléversement.
+4. Attendre le déploiement GitHub Pages, puis recharger le site (Ctrl+F5).
+
+ATTENTION : le fichier apps.json écrase son homonyme ; si vous avez ajouté d’autres applications après la dernière version, fusionner les entrées plutôt que remplacer.

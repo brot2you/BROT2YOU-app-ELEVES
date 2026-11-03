@@ -152,5 +152,19 @@
     "url": "https://brot2you.github.io/Evalang-Quest/",
     "category": "methode",
     "image": "assets/covers/22-evalang-quest.webp"
+  },
+  {
+    "name": "Brick It Up!",
+    "description": "Construis des phrases en anglais avec des briques grammaticales et des missions progressives",
+    "url": "https://brot2you.github.io/Brick-it-up/",
+    "category": "grammaire",
+    "image": "assets/covers/23-brick-it-up.webp"
+  },
+  {
+    "name": "Class Reward Jar",
+    "description": "Récompense la classe avec une jarre à étoiles, badges et bonnes actions",
+    "url": "https://brot2you.github.io/Class-Reward-Jar/",
+    "category": "methode",
+    "image": "assets/covers/24-class-reward-jar.webp"
   }
 ]
