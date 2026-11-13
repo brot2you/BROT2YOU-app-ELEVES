@@ -166,5 +166,12 @@
     "url": "https://brot2you.github.io/Class-Reward-Jar/",
     "category": "methode",
     "image": "assets/covers/24-class-reward-jar.webp"
+  },
+  {
+    "name": "Verbcraft",
+    "description": "Construis et maîtrise les verbes anglais dans un atelier d'aventure en pixel art",
+    "url": "https://brot2you.github.io/Verbcraft/",
+    "category": "grammaire",
+    "image": "assets/covers/Verbcraft_jaquette.webp"
   }
 ]
